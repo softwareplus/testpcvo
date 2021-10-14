@@ -20,6 +20,7 @@ namespace testpcvo
         private void Form1_Load(object sender, EventArgs e)
         {
             lstParticipants.Items.Add("Rocco Nardiello");
+            lstParticipants.Items.Add("Lukasz Marchlewski");
         }
     }
 }
